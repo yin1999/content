@@ -17,6 +17,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: log hello
+        run: |
+          echo this workflow is modified in the same branch where content also changed
+
       - name: Checkout BASE
         uses: actions/checkout@v3
 
