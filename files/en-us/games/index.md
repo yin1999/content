@@ -29,14 +29,16 @@ If you are a native developer (for example writing games in C++), and you are in
 To get started, see:
 
 - [About Emscripten](https://emscripten.org/docs/introducing_emscripten/about_emscripten.html) for an introduction including high-level details.
-- [Download and Install](https://emscripten.org/docs/getting_started/downloads.html) for installing the toolchain.
-- [Emscripten Tutorial](https://emscripten.org/docs/getting_started/Tutorial.html) for a tutorial to teach you how to get started.
++ [Download and Install](https://emscripten.org/docs/getting_started/downloads.html) for installing the toolchain.
+* [Emscripten Tutorial](https://emscripten.org/docs/getting_started/Tutorial.html) for a tutorial to teach you how to get started.
++ abc
++ efg
 
 ## Examples
 
 For a list of web game examples, see our [tutorials page](/en-US/docs/Games/Tutorials). Also, check out [games.mozilla.org](https://games.mozilla.org/) for more useful resources!
 
-## See also
+# See also
 
 - [Build New Games](http://buildnewgames.com/)
   - : A collaborative site featuring a large number of open web game development tutorials. Has not been very active recently, but still holds some nice resources.
