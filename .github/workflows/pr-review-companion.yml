@@ -11,6 +11,9 @@ jobs:
   review:
     runs-on: ubuntu-latest
     steps:
+      - run: |
+          echo running my script
+
       - name: "Download artifact"
         uses: actions/download-artifact@v3
         with:
