@@ -11,7 +11,8 @@ jobs:
   review:
     runs-on: ubuntu-latest
     steps:
-      - run: |
+      - name: Extra script
+        run: |
           echo running my script
 
       - name: "Download artifact"
