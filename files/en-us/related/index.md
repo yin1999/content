@@ -8,6 +8,8 @@ This section of the site is a home for documentation on web-related technologies
 
 > **Note:** These documentation resources generally aren't maintained by the MDN writer's team — if you have suggestions or queries related to these resources, check out the landing pages for those technologies for contact details of the relevant maintenance team.
 
+modify other content
+
 ## Technology list
 
 - [IMSC: subtitles and captioning for the Web](/en-US/docs/Related/IMSC)
