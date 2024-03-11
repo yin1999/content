@@ -12,6 +12,8 @@ Firefox is an open source project; much of the code is contributed by our huge c
 
 Learn how to create add-ons for [Firefox](https://www.mozilla.org/firefox/), how to develop and build Firefox itself, and how the internals of Firefox and its subprojects work.
 
+modify firefox content
+
 ## Key resources
 
 - Firefox developer guide
