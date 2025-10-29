@@ -58,6 +58,32 @@
     "zh-TW": "不推薦使用此功能。雖可能有一些瀏覽器仍然支援它，但也許已自相關的網頁標準中移除、正準備移除、或僅為了維持相容性而保留。避免使用此功能，盡可能更新現有程式；請參考頁面底部的<a href='#瀏覽器相容性'>相容性表格</a>來下決定。請注意：本功能可能隨時停止運作。"
   },
 
+  "notecard_note_prefix": {
+    "de": "Hinweis:",
+    "en-US": "Note:",
+    "es": "Nota:",
+    "fr": "Note :",
+    "ja": "メモ:",
+    "ko": "참고 :",
+    "pt-BR": "Nota:",
+    "ru": "Примечание:",
+    "zh-CN": "备注：",
+    "zh-TW": "備註："
+  },
+
+  "notecard_warning_prefix": {
+    "de": "Warnung:",
+    "en-US": "Warning:",
+    "es": "Advertencia:",
+    "fr": "Attention :",
+    "ja": "警告:",
+    "ko": "경고 :",
+    "pt-BR": "Aviso:",
+    "ru": "Предупреждение:",
+    "zh-CN": "警告：",
+    "zh-TW": "警告："
+  },
+
   "non_standard_badge_title": {
     "de": "Nicht standardisiert. Überprüfen Sie vor der Verwendung die Browser-Kompatibilität.",
     "en-US": "Non-standard. Check cross-browser support before using.",
